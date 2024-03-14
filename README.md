@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on something BIG
 - 📫 How to reach me via Email
-- 😄 Pronouns: he7him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i am from Austria
 
 <!---
