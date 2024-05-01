@@ -17,8 +17,9 @@ I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm pas
 - Java / Spring
 - JavaScript / React / Node.js
 - Postgres / SQLite
-- Cisco / ICP Blockchain
-
+- Python / Flask
+- Cisco
+- ICP Blockchain
 
 ## Repositories
 
