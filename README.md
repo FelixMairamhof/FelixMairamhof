@@ -19,6 +19,15 @@ I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm pas
 - Cisco
 - ICP Blockchain
 
+## Certificates
+- [Harvard CS50](https://github.com/FelixMairamhof/FelixMairamhof/files/15178377/CS50x.pdf)
+- [Complete We Developer Bootcamp](https://github.com/FelixMairamhof/FelixMairamhof/files/15178388/WebDevCourse.pdf)
+- [ECDL](https://github.com/FelixMairamhof/FelixMairamhof/files/15178393/ecdl.pdf)
+
+
+
+
+
 ## Repositories
 Here are some of my popular repositories:
 
