@@ -19,9 +19,6 @@ I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm pas
 - Postgres / SQLite
 - Cisco / ICP Blockchain
 
-## Fun Fact
-
-I am from Austria!
 
 ## Repositories
 
