@@ -13,7 +13,7 @@ I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm pas
 
 ## Tech Stack
 - Java / Spring
-- JavaScript / React / Node.js
+- JavaScript / React / Node.js / Tailwind
 - Postgres / SQLite
 - Python / Flask
 - Cisco
