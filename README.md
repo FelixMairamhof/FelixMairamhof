@@ -10,39 +10,25 @@
 
 ## About Me
 I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm passionate about software development and constantly seek to expand my skills and knowledge.
-
-
 ## Tech Stack
 
 ### Frontend
-- React
-- Vite
-- Tailwind
-- JavaScript
-- HTML
-- CSS
+React | Vite | Tailwind | JavaScript | HTML | CSS
+
 ### Backend
-- NodeJs / Express
-- Java Spring / Spring Boot
-- Python Flask
-- C# .NET Blazor
+NodeJs | Express | Java Spring | Spring Boot | Python Flask | C# .NET Blazor
+
 ### Database
-- Postgres SQL
-- SQL Light
-- Azure SQL
+Postgres SQL | SQL Light | Azure SQL
+
 ### DevOps
-- Docker
-- Azure Cloud
-- AWS
-- CI/CD GitHub Actions
+Docker | Azure Cloud | AWS | CI/CD GitHub Actions
+
 ### Blockchain
-- ICP (Internet Computer)
-- Motoko
+ICP (Internet Computer) | Motoko
+
 ### Networks
-- Cisco Packet Tracer
-- Routing, DHCP, VLAN, OSPF, DNS
-
-
+Cisco Packet Tracer | Routing | DHCP | VLAN | OSPF | DNS
 ## Hackathons
 - [Kelag Hackathon "Energy Attack"](https://github.com/FelixMairamhof/Kelag-Hackathon-.NET-Azure-Ticketsystme)
 
