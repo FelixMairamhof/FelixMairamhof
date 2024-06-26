@@ -11,6 +11,9 @@
 ## About Me
 I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm passionate about software development and constantly seek to expand my skills and knowledge.
 
+## Hackathons
+- [Kelag Hackathon "Energy Attack"](https://github.com/FelixMairamhof/Kelag-Hackathon-.NET-Azure-Ticketsystme)
+
 ## Tech Stack
 - Java / Spring
 - JavaScript / React / Node.js / Tailwind
@@ -23,20 +26,4 @@ I'm currently a student at HTL Mössingerstraße in Klagenfurt, Austria. I'm pas
 - [Harvard CS50](https://github.com/FelixMairamhof/FelixMairamhof/files/15178377/CS50x.pdf)
 - [Complete Web Developer Bootcamp](https://github.com/FelixMairamhof/FelixMairamhof/files/15178388/WebDevCourse.pdf)
 - [ECDL](https://github.com/FelixMairamhof/FelixMairamhof/files/15178393/ecdl.pdf)
-
-
-
-
-
-## Repositories
-Here are some of my popular repositories:
-
-- [Web2-Fullstack-PERN](https://github.com/FelixMairamhof/Web2-Fullstack-PERN)
-- [Harvard-CS50-Intro-Computer-Sience](https://github.com/FelixMairamhof/Harvard-CS50-Intro-Computer-Sience)
-- [FelixMairamhof](https://github.com/FelixMairamhof/FelixMairamhof)
-- [Java-School](https://github.com/FelixMairamhof/Java-School)
-- [Cisco-Packet-Tracer-School](https://github.com/FelixMairamhof/Cisco-Packet-Tracer-School)
-- [Web3-Blockchain-ICP](https://github.com/FelixMairamhof/Web3-Blockchain-ICP)
-
-Feel free to explore and collaborate!
 
