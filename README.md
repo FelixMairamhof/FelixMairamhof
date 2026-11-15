@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mairoflow-logo.png" width="220" alt="Mairoflow Logo" />
+<img src="./4d70c27e-baef-44d7-8c78-3f7ac91af585.png" width="220" alt="Mairoflow Logo" />
 
 # Felix Mairamhof
 
