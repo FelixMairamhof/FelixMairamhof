@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/153379088?v=4" width="130" alt="Felix Mairamhof" />
+<img src="./assets/mairoflow-logo.png" width="220" alt="Mairoflow Logo" />
 
 # Felix Mairamhof
 
